@@ -1,9 +1,53 @@
 @font-face {
-    font-family: "TT Supermolot Bold";
-    src: url(../fonts/TT-Supermolot-Neue-Trial-Bold.ttf);
+  font-family: "TT Supermolot Bold";
+  src: url(../fonts/TT-Supermolot-Neue-Trial-Bold.ttf);
 }
 
 @font-face {
-    font-family: "TT Supermolot Medium";
-    src: url(../fonts/TT-Supermolot-Neue-Trial-Medium.ttf);
+  font-family: "TT Supermolot Medium";
+  src: url(../fonts/TT-Supermolot-Neue-Trial-Medium.ttf);
+}
+
+html {
+  height: 100vh;
+  font-size: 14px;
+}
+
+body {
+  font-family: "TT Supermolot Medium";
+  background-color: #282828;
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+  max-width: 550px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  color: #ffffff;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+img {
+  border-radius: 100px;
+}
+
+header img {
+  max-width: 120px;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-family: "TT Supermolot Bold";
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #ff5c00;
+  font-weight: 100;
 }
