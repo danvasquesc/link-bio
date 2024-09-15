@@ -27,12 +27,16 @@ body {
   flex-direction: column;
   justify-content: center;
   padding: 20px;
-  color: #ffffff;
+}
+
+.degrade {
+  background: linear-gradient(to right, #ff5c00, #ff1500);
 }
 
 header {
   text-align: center;
   margin-bottom: 40px;
+  color: #ffffff;
 }
 
 img {
@@ -50,4 +54,36 @@ header h1 {
   margin-bottom: 10px;
   color: #ff5c00;
   font-weight: 100;
+}
+
+section.botoes {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+button {
+  color: #ffffff;
+  width: 100%;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  border-radius: 30px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: .2s;
+}
+
+.bnt-footer {
+  color: #ffffff;
+}
+
+i {
+  font-size: 1.3em;
+}
+
+button:hover {
+  transform: scale(1.05);
 }
