@@ -40,7 +40,7 @@ header {
 }
 
 img {
-  border-radius: 100px;
+  border-radius: 50%;
 }
 
 header img {
@@ -62,7 +62,7 @@ section.botoes {
   gap: 20px;
 }
 
-button {
+a.link button {
   color: #ffffff;
   width: 100%;
   padding: 10px 20px;
@@ -73,17 +73,31 @@ button {
   border-radius: 30px;
   font-size: 1.2em;
   cursor: pointer;
-  transition: .2s;
-}
-
-.bnt-footer {
-  color: #ffffff;
+  transition: 0.4s;
 }
 
 i {
   font-size: 1.3em;
 }
 
-button:hover {
+button:hover,
+.bnt-footer:hover {
   transform: scale(1.05);
+}
+
+footer {
+  text-align: center;
+  margin: 30px;
+}
+
+.bnt-footer {
+  color: #ffffff;
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  font-size: 1.5em;
+  line-height: 60px;
+  border-radius: 50%;
+  margin: 0 10px;
+  transition: 0.4s;
 }
