@@ -26,7 +26,7 @@ Para contribuir ou fazer modificações no projeto, siga os passos abaixo:
 
 ![HTML][2] 
 ![CSS][3]
-![Bootstrap][1]
+![Bootstrap Icons][1]
 
 <br>
 
@@ -47,7 +47,7 @@ A página está hospedada no GitHub Pages, que é um serviço que permite hosped
 Este projeto foi uma excelente oportunidade para praticar o versionamento de código e a utilização do Git e GitHub. Agradeço ao autor do tutorial do YouTube que me ajudou a aprender os conceitos e a implementar este projeto. Sinta-se à vontade para contribuir com melhorias ou usar este projeto como referência para seus próprios estudos e práticas.
 
 
-[1]: https://img.shields.io/badge/Bootstrap-7432FA?style=for-the-badge&logo=bootstrap&logoColor=white
+[1]: https://img.shields.io/badge/Bootstrap_Icons-7432FA?style=for-the-badge&logo=bootstrap&logoColor=white
 [2]: https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [3]: https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [4]: https://danvasquesc.github.io/link-bio/
