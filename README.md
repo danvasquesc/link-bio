@@ -1,4 +1,4 @@
-# :open_file_folder: Minha Link-Bio para Treinamento de Versionamento de Código. 
+# 📂 Minha Link-Bio para Treinamento de Versionamento de Código. 
 <br>
 
 ## 📌 Introdução
@@ -8,6 +8,15 @@ Este projeto foi desenvolvido como uma forma de treinamento para o versionamento
 
 ## 📌 Objetivo
 O principal objetivo deste projeto é treinar e demonstrar habilidades básicas de versionamento de código com o Git. O projeto inclui a utilização do Bootstrap Icons para estilização e contém links para redes sociais e outros recursos importantes.
+
+<br>
+
+## 📌 Ferramentas utilizadas
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
@@ -22,36 +31,15 @@ Para contribuir ou fazer modificações no projeto, siga os passos abaixo:
 
 <br>
 
-## 📌 Linguagens utilizadas
-
-![HTML][2] 
-![CSS][3]
-![Bootstrap Icons][1]
-
-<br>
-
-## 📌 Editor de código utilizado
-
-![VS Code][5]
-
-<br>
-
 ## 📌 Visualizar o projeto
 A página está hospedada no GitHub Pages, que é um serviço que permite hospedar sites estáticos diretamente a partir de um repositório GitHub. É ideal para criar e publicar sites pessoais, blogs e portfólios.
 
-[Clique aqui para visualizar!][4]
+[Clique aqui para visualizar!](https://danvasquesc.github.io/link-bio/)
 
 <br>
 
 ## 📌 Considerações Finais
 Este projeto foi uma excelente oportunidade para praticar o versionamento de código e a utilização do Git e GitHub. Agradeço ao autor do tutorial do YouTube que me ajudou a aprender os conceitos e a implementar este projeto. Sinta-se à vontade para contribuir com melhorias ou usar este projeto como referência para seus próprios estudos e práticas.
-
-
-[1]: https://img.shields.io/badge/Bootstrap_Icons-7432FA?style=for-the-badge&logo=bootstrap&logoColor=white
-[2]: https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[3]: https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[4]: https://danvasquesc.github.io/link-bio/
-[5]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge
 
 ---
 
